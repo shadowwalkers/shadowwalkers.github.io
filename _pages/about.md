@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 I am a graduate student at Saarland University, trying to understand problems related to Machine Learning. 
 
 
