@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anurag Das"
 title_separator          : "-"
 name                     : &name "Anurag Das"
-description              : &description "personal description"
+description              : &description "Graduate Student @Saarland University"
 url                      : https://shadowwalkers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shadowwalkers/shadowwalkers.github.io"
@@ -82,39 +82,39 @@ analytics:
 author:
   name             : "Anurag Das"
   avatar           : "bio-photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student, Saarland University"
   location         : "Saarbrucken, Germany"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+#  employer         :
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "anurag4446_at_gmail.com"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
+  github           : "https://github.com/shadowwalkers"
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/anurag-das"
+#  orcid            : "http://orcid.org/yourorcidurl"
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  steam            :
+#  tumblr           :
+  twitter          : "https://twitter.com/_anurag_das"
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  wikipedia        :
 
 
 # Reading Files

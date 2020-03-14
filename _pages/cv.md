@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Information Technology, IIIT Allahabad 2017
+* Preparatory Ph.D, Saarland University, 2019 -
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Software Intern
+  * Eklavya, IIT Bombay
+  * Supervisor: Professor D.B Phatak
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2016: Software Intern
+  * Microsoft India
+  * Manager: Mani Nagavarapu 
   
 Skills
 ======
