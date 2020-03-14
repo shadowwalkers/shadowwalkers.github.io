@@ -35,6 +35,11 @@ Work experience
   * Microsoft India
   * Project : Exposing Domain Data using Azure Service Fabric
   * Manager: Mani Nagavarapu 
+
+* 2014 - 2015: Student Quant developer
+  * WorldQuant, USA
+  * Project : Development of alphas for prediction of stock market.
+
   
 Skills
 ======
