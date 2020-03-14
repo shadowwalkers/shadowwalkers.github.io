@@ -1,8 +1,8 @@
 ---
 title: "Introduction to programming"
-collection: teaching
+collection: tutoring
 type: "Undergraduate course"
-permalink: /teaching/2015-programming
+permalink: /tutoring/2015-programming
 venue: "IIIT Allahabad, India"
 date: 07/2015
 location: "Allahabad, India"
