@@ -26,15 +26,15 @@ Work experience
   * Projects : WPA3, Wifi Aware, NAN+BLE implementations in framework and supplicant
   * Manager : Sunil Dutt
 
-* Summer 2015: Software Intern
-  * Eklavya, IIT Bombay
-  * Project : Development of Big data analytics system for IITBombayX
-  * Supervisor: Professor D.B Phatak
-
 * Summer 2016: Software Intern
   * Microsoft India
   * Project : Exposing Domain Data using Azure Service Fabric
   * Manager: Mani Nagavarapu 
+
+* Summer 2015: Software Intern
+  * Eklavya, IIT Bombay
+  * Project : Development of Big data analytics system for IITBombayX
+  * Supervisor: Professor D.B Phatak
 
 * 2014 - 2015: Student Quant developer
   * WorldQuant, USA
