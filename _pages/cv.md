@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Information Technology, IIIT Allahabad 2017
+* B.Tech in Information Technology, IIIT Allahabad, 2017 [9.44/10]
 * Preparatory Ph.D, Saarland University, 2019 -
 
 Work experience
