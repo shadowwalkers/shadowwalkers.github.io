@@ -73,8 +73,9 @@ Achievements and Awards
 ======
 * Saarbrucken Graduate School of Computer Science Scholarship (< 3% applicants get selected)
 * Top Performer at Qualcomm India in the Annual Review.
-* 3 Qualstars at Qualcomm India for \\different projects.
-* Institute Merit Scholarship for getting into top 5\% of the class.
+* 3 Qualstars at Qualcomm India for different projects.
+* Ranked 6 out of 185 students in bachelors programme in IIIT Allahabad.
+* Institute Merit Scholarship for getting into top 5% of the class.
 * 43rd rank in Worldquant Websim Challenge,2014
-* Qualified Regional Mathematics Olympiad 2011 from CBSE region.
-* DST Inspire Scholarship awardee, 2012 for getting in top 1\% in India in CBSE Board,2012
+* Qualified Regional Mathematics Olympiad 2011 from CBSE region [Rank 13].
+* DST Inspire Scholarship awardee, 2012 for getting in top 1% in India in CBSE Board,2012
